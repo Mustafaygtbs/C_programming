@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//In this project, I multiply two 2x2 matrices.
+
 int main()
 {
     int r1, c1;
