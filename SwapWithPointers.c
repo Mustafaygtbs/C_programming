@@ -4,6 +4,7 @@
 #include <math.h>
 #define PI 3.14159265359
 
+// In this project, I change the values of variables a and b using 3 different methods.
 void *Summaryswap(int *x, int *y)
 {
     *x = *x + *y;
